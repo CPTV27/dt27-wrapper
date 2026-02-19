@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "dogteam27"
+  },
+  "targets": {
+    "dogteam27": {
+      "hosting": {
+        "studio": [
+          "dt27-studio"
+        ]
+      }
+    }
+  }
+}
